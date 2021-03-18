@@ -3,4 +3,5 @@ grapes
 orange
 watermelon
 maskmelon
-
+banana
+dryfruits
